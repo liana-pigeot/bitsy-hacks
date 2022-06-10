@@ -54,6 +54,7 @@ Last tested against Bitsy 7.12
 - 🔀 [logic-operators-extended](/dist/logic-operators-extended.js): adds conditional logic operators
 - 📜 [long dialog](/dist/long-dialog.js): put more words onscreen
 - 👨‍👨‍👧‍👧 [multi-sprite avatar](/dist/multi-sprite-avatar.js): make the player big
+- 🚀 [narrat call](/dist/narrat-call.js): calls a narrat function
 - 📎 [noclip](/dist/noclip.js): walk through wall tiles, sprites, items, exits, and endings
 - 🔄 [online](/dist/online.js): multiplayer bitsy
 - ⬛ [opaque tiles](/dist/opaque-tiles.js): tiles which hide the player
